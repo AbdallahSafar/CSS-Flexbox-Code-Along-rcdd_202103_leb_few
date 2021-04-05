@@ -16,8 +16,8 @@ main {
   height: 100%;
   display: flex;
   flex-flow: wrap;
-  justify-content: center;
-  align-items: center;
+/*  justify-content: center;*/
+  align-items: stretch;
 }
 
 footer {
