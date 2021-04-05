@@ -16,8 +16,6 @@ main {
   height: 100%;
   display: flex;
   flex-flow: wrap;
-/*  justify-content: center;*/
-  align-items: baseline;
 }
 
 footer {
